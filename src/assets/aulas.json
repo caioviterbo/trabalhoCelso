@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1",
+    "dia": "Segunda-feira",
+    "horario": "10:00",
+    "disciplina":"Orientação a Objetos ",
+    "professor": "Gutemberg Martins"
+  },
+  {
+    "_id": "2",
+    "dia": "Terça-feira",
+    "horario": "12:00",
+    "disciplina":"Calculo 1",
+    "professor": "Luzinalva Amorin"
+  }
+]
